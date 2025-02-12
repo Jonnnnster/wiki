@@ -5,33 +5,33 @@ title: Где взять токен
 
 1. **В строке поиска по чатам наберите @botfather или перейдите по этой ссылке** [**https://t.me/botfather**](https://t.me/botfather) **(будьте внимательны у бота должна быть голубая галочка)**
 
-   ![](./statya-odin.jpeg){width=863px height=572px}
+   ![](./gde-vzyat-token.jpeg){width=863px height=572px}
 
 2. **Запустите бот нажав кнопку начать (Start)**
 
-   ![](./statya-odin-2.jpeg){width=857px height=575px}
+   ![](./gde-vzyat-token-2.jpeg){width=857px height=575px}
 
 3. **Для создания бота напишите команду /newbot**
 
-   ![](./statya-odin-3.jpeg){width=856px height=573px}
+   ![](./gde-vzyat-token-3.jpeg){width=856px height=573px}
 
 4. **Придумайте и отправьте боту (ботфазеру) имя вашего бота.**
 
    *это имя будут видеть в списке диалогов поэтому оно должно быть понятным для ваших клиентов*
 
-   ![](./statya-odin-4.jpeg){width=856px height=575px}
+   ![](./gde-vzyat-token-4.jpeg){width=856px height=575px}
 
 5. **Придумайте адрес вашего бота.**
 
    Только английские буквы и в конце Bot или *bot. Например CarlsonBot или carlson*bot
 
-   ![](./statya-odin-5.jpeg){width=851px height=573px}
+   ![](./gde-vzyat-token-5.jpeg){width=851px height=573px}
 
-   **Адрес может быть уже занят!** 
+   **Адрес может быть уже занят!**
 
    *Если ботфазер ответит так же как на картинке ниже, придумайте другой адрес и отправьте ботфазеру*
 
-   ![](./statya-odin-6.jpeg){width=843px height=576px}
+   ![](./gde-vzyat-token-6.jpeg){width=843px height=576px}
 
 6. **Done! Congratulations on your new bot.**
 
@@ -41,6 +41,6 @@ title: Где взять токен
 
    *Токен начинается сразу после... API и заканчивается перед Keep*
 
-![](./statya-odin-7.jpeg){width=842px height=576px}
+![](./gde-vzyat-token-7.jpeg){width=842px height=576px}
 
 **Теперь возвращайтесь в @NotibotruBot и создайте свой Магазин**

@@ -13,7 +13,7 @@ title: "Навигация между страницами "
 
 :::info Подробнее
 
-Итак, **создавая кнопку в** [**telegra.ph**](http://telegra.ph), укажите **ссылку следующего типа** [**https://t.me/post#*****ID\_страницы***](https://t.me/post#ID_страницы)
+Итак, **создавая кнопку в** [**telegra.ph**](http://telegra.ph), укажите **ссылку следующего типа** [\*\*https://t.me/post#\*\****ID\_страницы***](https://t.me/post#ID_страницы)
 
 :::
 
@@ -29,13 +29,13 @@ title: "Навигация между страницами "
 
 ## **Как получить ID страницы?**
 
-![](./navigaciya-mezhdu-stranicami.jpeg){width=848px height=812px}
+![](./navigaciya-mezhdu-stranicami-3.jpeg){width=848px height=812px}
 
 ## **Как получить ID товара?**
 
 
 
-![](./navigaciya-mezhdu-stranicami-2.jpeg){width=864px height=664px}
+![](./navigaciya-mezhdu-stranicami-2-2.jpeg){width=864px height=664px}
 
 :::tip 
 
@@ -46,5 +46,3 @@ title: "Навигация между страницами "
 :::
 
 ## **Как скрыть статью из общего каталога товаров**
-
-
