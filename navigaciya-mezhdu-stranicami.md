@@ -29,13 +29,11 @@ title: "Навигация между страницами "
 
 ## **Как получить ID страницы?**
 
-![](./navigaciya-mezhdu-stranicami-3.jpeg){width=848px height=812px}
+[video:https://drive.google.com/file/d/1AmdhBkP8x6k_5nZFYKyOjD_8r98wl6zX/view?usp=drive_link:]
 
 ## **Как получить ID товара?**
 
-
-
-![](./navigaciya-mezhdu-stranicami-2-2.jpeg){width=864px height=664px}
+[video:https://drive.google.com/file/d/180IXKky4Tt1XybpquNZSjmdM8HFFQ_D2/view?usp=sharing:]
 
 :::tip 
 
@@ -46,3 +44,5 @@ title: "Навигация между страницами "
 :::
 
 ## **Как скрыть статью из общего каталога товаров**
+
+[video:https://drive.google.com/file/d/1rNa23l2sNBgwa19kU2WuBJtVKAu2hai3/view?usp=sharing:]
