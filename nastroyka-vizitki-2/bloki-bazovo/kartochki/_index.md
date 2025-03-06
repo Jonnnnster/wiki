@@ -23,7 +23,7 @@ title: Карточки
 
 ### **Настройка внешнего вида карточек**
 
-![](./kartochki.jpeg){width=396px height=225px}
+![](./_index.jpeg){width=396px height=225px}
 
 1. Количество карточек видимых на экране без прокрутки
 
@@ -37,4 +37,4 @@ title: Карточки
 
 ### Примеры
 
-![](./kartochki-2.jpeg){width=402px height=642px}
+![](./_index-2.jpeg){width=402px height=642px}
