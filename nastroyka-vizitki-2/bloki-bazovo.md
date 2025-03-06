@@ -11,4 +11,6 @@ title: Блоки базово
 
 -  Карточки
 
+### Шапка про
 
+![](./bloki-bazovo.jpeg){width=472px height=766px}
