@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Тесты
+title: Создаем тесты
 ---
 
 1. Переходим в своего бота (который подключён к [@NotibotruBot](https://t.me/NotibotruBot)) и нажимаем АДМИНКА
