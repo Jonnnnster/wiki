@@ -15,14 +15,16 @@ title: Подключение оплаты
 
 2. Выбираем вкладку МАГАЗИН
 
-   ![](./podklyuchenie-oplaty.jpeg){width=439px height=680px}
+   ![](./_index-2.jpeg){width=439px height=680px}
 
 3. Выбираем прием оплаты
 
-   ![](./podklyuchenie-oplaty-2.jpeg){width=444px height=683px}
+   ![](./_index-2-2.jpeg){width=444px height=683px}
 
 4. Переходим в Автоматические платежи
 
-   ![](./podklyuchenie-oplaty-3.jpeg){width=439px height=269px}
+   ![](./_index-3.jpeg){width=439px height=269px}
 
 5. **Prodamus**
+
+6.  
