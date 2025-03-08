@@ -32,3 +32,19 @@ title: Шапка ПРО
    -  Настроить кнопки (например, измените их текст, цвет и расположение)
 
       ![](./shapka-pro.jpeg){width=469px height=707px}
+
+#### Примеры
+
+{% table header="row" %}
+
+---
+
+*  {% colwidth=[372] %}
+
+   ![](./shapka-pro-3.jpeg){width=465px height=747px}
+
+*  {% colwidth=[488] %}
+
+   [image:./shapka-pro-4.jpeg:::0,0,99.97295964298222,81.17469879518072:::465px:742px]
+
+{% /table %}
