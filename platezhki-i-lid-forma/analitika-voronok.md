@@ -3,6 +3,8 @@ order: 4
 title: Аналитика воронок
 ---
 
+### СОЗДАНИЕ ВОРОНКИ АНАЛИТИКИ
+
 1. Переходим в своего бота (который подключён к [@NotibotruBot](https://t.me/NotibotruBot)) и нажимаем АДМИНКА
 
    ![](./_index-2.jpeg){width=538px height=142px}
