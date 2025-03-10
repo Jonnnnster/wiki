@@ -1,6 +1,6 @@
 ---
 order: 0.5
-title: Самый первый шаг
+title: Создаем магазин
 ---
 
 1. Запустите бот [@NotibotruBot](https://t.me/NotibotruBot)
