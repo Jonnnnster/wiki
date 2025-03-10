@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 1.9
 title: Товары
 ---
 
@@ -10,5 +10,3 @@ title: Товары
 -  [Описание и категория товара](./opisanie-i-kategoriya-tovara)
 
 -  [Порядок отображения товаров в каталоге](./poryadok-otobrazheniya-tovarov-v-kataloge)
-
-

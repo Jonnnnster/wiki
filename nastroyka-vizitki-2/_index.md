@@ -37,15 +37,15 @@ order: 1.3
 
 -  [Карточки](./bloki-bazovo/kartochki/_index)
 
-#### [Формы](./formy/_index)
+#### [Формы](./../formy/_index)
 
--  [Создаем формы](./formy/sozdaem-formy)
+-  [Создаем формы](./../formy/sozdaem-formy)
 
--  [Создаем тесты](./formy/testy)
+-  [Создаем тесты](./../formy/testy)
 
 
 
-[Страницы](./stranicy/_index)
+[Страницы](./../stranicy/_index)
 
 -  Настройки: категории, видимость, шапка-обложка
 

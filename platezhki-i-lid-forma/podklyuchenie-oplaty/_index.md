@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Подключение оплаты
+title: Прием заказов и оплат
 ---
 
 :::info 
@@ -50,5 +50,3 @@ title: Подключение оплаты
    ![](./podklyuchenie-oplaty-3.jpeg){width=445px height=322px}
 
    И далее сохранить изменения
-
-
