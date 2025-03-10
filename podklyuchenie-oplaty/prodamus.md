@@ -7,7 +7,7 @@ title: Prodamus
 
 ![](./prodamus.jpeg){width=461px height=410px}
 
-2\. Копируем ссылку 
+2\. Копируем ссылку
 
 ![](./prodamus-2.jpeg){width=435px height=462px}
 
@@ -15,7 +15,7 @@ title: Prodamus
 
 ![](./prodamus-3.jpeg){width=427px height=92px}
 
-4\. Вставляем скопированную ссылку 
+4\. Вставляем скопированную ссылку
 
 ![](./prodamus-5.jpeg){width=441px height=254px}
 
