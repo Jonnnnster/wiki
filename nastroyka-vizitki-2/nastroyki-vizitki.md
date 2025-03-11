@@ -5,14 +5,26 @@ title: Настройки визитки
 
 1. **Как попасть в настройки визитки:**
 
-   -  Откройте своего бота.
+   -  Откройте своего бота, который подключён к [@NotibotruBot](https://t.me/NotibotruBot)
 
    -  Нажмите кнопку **“Админка”**.
 
+      ![](./nastroyki-vizitki.png){width=538px height=142px}
+
    -  Выберите раздел **“Визитка”**.
+
+      [image:./nastroyki-vizitki.jpeg:::1.2396694214876034,0,96.48760330578511,100:::484px:516px]
 
    -  Нажмите **“Добавить блок”**, чтобы начать создание или редактирование визитки.
 
-   ![](./nastroyka-vizitki.jpeg){width=472px height=766px}
+      [image:./nastroyka-vizitki.jpeg:::0,28.313253012048197,99.9663897337867,71.53614457831326:::472px:766px]
 
-   
+2. **Как перемещать блоки в визитке**
+
+   [video:https://drive.google.com/file/d/10WqzD1wPjQkqgIYQ7RG7uNG_zNXTuI5y/view?usp=sharing:]
+
+3. **Как скрыть блоки в разделе визитка**
+
+   [video:https://drive.google.com/file/d/1euNTxTAgvtbQ2Egui-HG3dnYBd3VKmAZ/view?usp=sharing:]
+
+
