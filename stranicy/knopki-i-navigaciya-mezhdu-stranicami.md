@@ -1,11 +1,7 @@
 ---
 order: 2.5
-title: Кнопки и навигация между страницами
+title: Навигация между страницами
 ---
-
-### **Как добавить кнопку?**
-
-[video:https://drive.google.com/file/d/18KFPfMYwvVddZ70vsIznWX_SkFKTvaKs/view?usp=sharing:]
 
 ### **Как сделать переход между страницами?**
 
