@@ -35,16 +35,10 @@ title: Шапка ПРО
 
 #### Примеры
 
-{% table header="row" %}
+[image:./shapka-pro-3.jpeg:::0,0,99.92136643139602,39.45783132530121:::465px:747px]
 
----
+[image:./shapka-pro-4.jpeg:::0,0,99.97295964298222,38.704819277108435:::465px:742px]
 
-*  {% colwidth=[372] %}
+![](./shapka-pro-5.jpeg){width=463px height=315px}
 
-   ![](./shapka-pro-3.jpeg){width=465px height=747px}
 
-*  {% colwidth=[488] %}
-
-   [image:./shapka-pro-4.jpeg:::0,0,99.97295964298222,81.17469879518072:::465px:742px]
-
-{% /table %}
