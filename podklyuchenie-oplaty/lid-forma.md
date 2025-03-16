@@ -7,8 +7,6 @@ title: Лид-форма
 
 Как это настроить:
 
-
-
 1. Переходим в своего бота (который подключён к [@NotibotruBot](https://t.me/NotibotruBot)) и нажимаем АДМИНКА
 
    ![](./lid-forma.jpeg){width=538px height=142px}
