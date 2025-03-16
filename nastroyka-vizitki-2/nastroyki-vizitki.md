@@ -31,4 +31,16 @@ title: Настройки визитки
 
 #### Примеры визиток:
 
-![](./nastroyki-vizitki-3.jpeg){width=800px height=600px}
+{% table header="row" %}
+
+---
+
+*  ![](./nastroyki-vizitki-2.jpeg){width=234px height=442px}
+
+   
+
+*  ![](./nastroyki-vizitki-4.jpeg){width=275px height=439px}
+
+*  ![](./nastroyki-vizitki-5.jpeg){width=229px height=440px}
+
+{% /table %}
