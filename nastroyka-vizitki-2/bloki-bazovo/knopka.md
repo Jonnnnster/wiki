@@ -22,3 +22,5 @@ title: Кнопка
 **good# - на товар**
 
 :::
+
+Так же вы можете добавить [кнопку про](./../../stranicy/knopka-pro-na-stranice) через текстовый блок [инструкция](./../../stranicy/knopka-pro-na-stranice) 
