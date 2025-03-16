@@ -37,4 +37,8 @@ title: Карточки
 
 ### Примеры
 
-![](./_index-2.jpeg){width=402px height=642px}
+![](./kartochki.jpeg){width=575px height=336px}
+
+![](./kartochki-2.jpeg){width=554px height=310px}
+
+![](./kartochki-3.jpeg){width=474px height=405px}

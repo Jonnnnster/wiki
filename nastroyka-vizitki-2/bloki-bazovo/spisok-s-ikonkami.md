@@ -38,3 +38,11 @@ title: Список с иконками
    -  Настройте **цвет разделителя**.
 
 ![](./spisok-s-ikonkami-2.jpeg){width=482px height=948px}
+
+#### Примеры использования:
+
+![](./spisok-s-ikonkami-3.jpeg){width=454px height=297px}
+
+![](./spisok-s-ikonkami-4.jpeg){width=435px height=447px}
+
+![](./spisok-s-ikonkami-5.jpeg){width=430px height=444px}
