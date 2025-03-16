@@ -26,3 +26,9 @@ title: Настройки визитки
 ### **Как скрыть блоки в разделе визитка**
 
 [video:https://drive.google.com/file/d/1euNTxTAgvtbQ2Egui-HG3dnYBd3VKmAZ/view?usp=sharing:]
+
+
+
+#### Примеры визиток:
+
+![](./nastroyki-vizitki-3.jpeg){width=800px height=600px}
