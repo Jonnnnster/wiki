@@ -11,8 +11,6 @@ title: Канал по подписке
 
    ![](./kanal-po-podpiske-2.jpeg){width=461px height=807px}
 
-   ![](./kanal-po-podpiske.jpeg){width=458px height=909px}
-
 4. Возвращаемся в бот, который подключен к нотиботу, и отправляем команду /goods
 
    ![](./kanal-po-podpiske-3.jpeg){width=535px height=295px}
