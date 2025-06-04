@@ -27,7 +27,19 @@ title: Пошаговая инструкция по настройке инте�
 
    -  Нажмите **«Сгенерировать секретный ключ»**.
 
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g.jpeg){width=1495px height=722px}
+
    -  **Обновите страницу** --> скопируйте появившийся ключ.
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-2.jpeg){width=1497px height=685px}
+
+3. **Создаем подписку/товар на Getcourse**:
+
+   ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-12.jpeg){width=1281px height=844px}
+
+   В Настройках предложения указываем Уникальный код предложения
+
+   ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-13.jpeg){width=1374px height=828px}
 
 ---
 
@@ -51,6 +63,8 @@ title: Пошаговая инструкция по настройке инте�
 
       -  Цену товара/подписки.
 
+         ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-3.jpeg){width=547px height=927px}
+
 ---
 
 #### **3\. Настройка дополнительного поля в GetCourse**
@@ -59,7 +73,11 @@ title: Пошаговая инструкция по настройке инте�
 
    -  Раздел **Участники --> Пользователи --> Дополнительные поля**.
 
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-4.jpeg){width=1593px height=750px}
+
    -  **Добавить поле --> Тип «Строка»**.
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-5.jpeg){width=1406px height=689px}
 
    -  Заполните:
 
@@ -77,21 +95,27 @@ title: Пошаговая инструкция по настройке инте�
 
    -  **Задачи --> Процессы --> Создать процесс**.
 
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-6.jpeg){width=1488px height=734px}
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-7.jpeg){width=1315px height=888px}
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-8.jpeg){width=1597px height=609px}
+
    -  Выберите триггер: **«Заказ завершен - оплачен»**.
 
    -  Добавьте действие: **«Вызвать URL»**.
 
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-9.jpeg){width=1199px height=820px}
+
 2. **Получение Webhook из Notibot**
 
-   -  В Telegram напишите боту команду:
-
-      Copy
-
-      Download
+   -  Перейдите в ваше бот, который подключен к notibot и напишите ему команду:
 
       ```
       /getcourse
       ```
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-10.jpeg){width=719px height=538px}
 
    -  Скопируйте:
 
@@ -103,10 +127,6 @@ title: Пошаговая инструкция по настройке инте�
 
    -  Для **оплаченных** заказов:
 
-      Copy
-
-      Download
-
       ```
       [WEBHOOK]?key=[KEY]&status=payed&order_id={object.zakaz_id}
       ```
@@ -117,13 +137,11 @@ title: Пошаговая инструкция по настройке инте�
 
    -  Для **отмененных** заказов:
 
-      Copy
-
-      Download
-
       ```
       [WEBHOOK]?key=[KEY]&status=cancelled&order_id={object.zakaz_id}
       ```
+
+![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-11.jpeg){width=1553px height=821px}
 
 ---
 
