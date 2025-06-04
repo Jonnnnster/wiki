@@ -59,8 +59,6 @@ title: Подключение бота к Telegram Business через Notibot
 
          ![](./podklyuchenie-k-telegram-business-cherez-notibot.jpeg){width=546px height=307px}
 
-         
-
    -  **Укажите текст сообщения для команды**
 
       ![](./podklyuchenie-k-telegram-business-cherez-notibot-7.jpeg){width=522px height=192px}
@@ -73,8 +71,4 @@ title: Подключение бота к Telegram Business через Notibot
 
       ![](./podklyuchenie-k-telegram-business-cherez-notibot-9.jpeg){width=508px height=147px}
 
-      
-
    -  **Команда успешно добавлена!**
-
-
