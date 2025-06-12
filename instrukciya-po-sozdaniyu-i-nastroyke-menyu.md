@@ -55,8 +55,6 @@ title: Инструкция по созданию и настройке меню
 
    ![](./instrukciya-po-sozdaniyu-i-nastroyke-menyu-11.jpeg){width=488px height=706px}
 
-    
-
 ---
 
 #### **3\. Настройка внешнего вида меню**
@@ -99,7 +97,7 @@ title: Инструкция по созданию и настройке меню
 
       ![](./instrukciya-po-sozdaniyu-i-nastroyke-menyu-15.jpeg){width=463px height=378px}
 
-   -  Прокрутите вниз --> выберите созданное меню из списка **«Верхнее меню»** или **«Нижнее меню»**
+   -  Прокрутите вниз --> выберите созданное меню из списка 
 
       ![](./instrukciya-po-sozdaniyu-i-nastroyke-menyu-16.jpeg){width=478px height=332px}
 
