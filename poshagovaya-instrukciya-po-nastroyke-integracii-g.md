@@ -1,6 +1,6 @@
 ---
 order: 12.5
-title: Пошаговая инструкция по настройке интеграции GetCourse и Notibot
+title: "Пошаговая инструкция по настройке интеграции GetCourse "
 ---
 
 #### **1\. Подготовка в GetCourse**
@@ -13,11 +13,9 @@ title: Пошаговая инструкция по настройке инте�
 
 2. **Генерация секретного ключа**
 
+   В GetCourse нет раздела меню с доступом к созданию секретный ключ для интеграции, поэтому мы создадим ссылку сами.
+
    -  Вручную введите в адресной строке:
-
-      Copy
-
-      Download
 
       ```
       https://[ваш_аккаунт].getcourse.ru/saas/account/api  
@@ -43,15 +41,22 @@ title: Пошаговая инструкция по настройке инте�
 
 ---
 
-#### **2\. Настройка в Notibot**
+#### **2\. Настройка в боте, подключенного к @NotibotruBot**
 
 1. **Добавление ключа GetCourse**
 
-   -  В админке Notibot перейдите:
+   -  Перейдите в админку бота, подключенного к @NotibotruBot:
 
-      **Настройки --> Интеграции --> GetCourse**.
+      **Магазин --> Интеграции --> GetCourse**.
 
-   -  Вставьте скопированный ключ --> **Сохранить**.
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-14.jpeg){width=479px height=596px}
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-15.jpeg){width=471px height=336px}
+
+   -  Вставьте в поле "Логин" имя аккаунта GetCourse\
+      В поле "Секретный ключ" вставляем скопированный на GetCourse API ключ и нажимаем **Сохранить изменения**.
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-16.jpeg){width=472px height=474px}
 
 2. **Создание товара для GetCourse**
 
