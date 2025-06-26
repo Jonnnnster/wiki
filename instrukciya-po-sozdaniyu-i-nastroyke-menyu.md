@@ -97,7 +97,7 @@ title: Инструкция по созданию и настройке меню
 
       ![](./instrukciya-po-sozdaniyu-i-nastroyke-menyu-15.jpeg){width=463px height=378px}
 
-   -  Прокрутите вниз --> выберите созданное меню из списка 
+   -  Прокрутите вниз --> выберите созданное меню из списка
 
       ![](./instrukciya-po-sozdaniyu-i-nastroyke-menyu-16.jpeg){width=478px height=332px}
 
