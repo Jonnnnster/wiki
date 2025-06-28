@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 3.5
 title: Как закрепить пост с кнопкой в Telegram-канале через Notibot
 ---
 
@@ -13,7 +13,7 @@ title: Как закрепить пост с кнопкой в Telegram-кана
 
 -  Выдайте права
 
-   ![](./kak-zakrepit-post-s-knopkoy-v-telegram-kanale-che.jpeg){width=440px height=327px}
+   ![](./_index.jpeg){width=440px height=327px}
 
 ---
 
@@ -29,7 +29,7 @@ title: Как закрепить пост с кнопкой в Telegram-кана
       /pinv
       ```
 
-      ![](./kak-zakrepit-post-s-knopkoy-v-telegram-kanale-che-2.jpeg){width=539px height=245px}
+      ![](./_index-2.jpeg){width=539px height=245px}
 
 2. **Настройте пост:**
 
@@ -43,11 +43,11 @@ title: Как закрепить пост с кнопкой в Telegram-кана
 
    -  Нажмите **"Выбрать канал" или "Выбрать чат"**
 
-      ![](./kak-zakrepit-post-s-knopkoy-v-telegram-kanale-che-4.jpeg){width=554px height=755px}
+      ![](./_index-4.jpeg){width=554px height=755px}
 
    -  Выберите канал/чат, где хотите разместить сообщение
 
-      ![](./kak-zakrepit-post-s-knopkoy-v-telegram-kanale-che-3.jpeg){width=547px height=224px}
+      ![](./_index-3.jpeg){width=547px height=224px}
 
 4. **Отправка и закрепление:**
 
@@ -56,5 +56,3 @@ title: Как закрепить пост с кнопкой в Telegram-кана
 ---
 
 **Готово!** Теперь в вашем канале есть закрепленное сообщение с кнопкой. 🚀
-
-
