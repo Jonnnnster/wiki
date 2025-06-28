@@ -31,8 +31,6 @@ title: Настройка страницы с доступом по подпис
 
       ![](./nastroyka-stranicy-s-dostupom-po-podpiske-3.jpeg){width=474px height=688px}
 
-      
-
    -  Выберите ваш канал из списка
 
    -  Нажмите **"Сохранить"**
