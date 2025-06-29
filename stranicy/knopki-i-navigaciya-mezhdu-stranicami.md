@@ -21,16 +21,16 @@ title: Навигация между страницами
 
 :::info 
 
-**post# - на статью**
+**post# - если вам нужен переход на страницу**
 
-**good# - на товар**
+**good# - если вам нужен переход на товар**
 
 :::
 
 ## **Как получить ID страницы?**
 
-[video:https://drive.google.com/file/d/1AmdhBkP8x6k_5nZFYKyOjD_8r98wl6zX/view?usp=drive_link:]
+[video:https://drive.google.com/file/d/1AmdhBkP8x6k_5nZFYKyOjD_8r98wl6zX/view?usp=drive_link]
 
 ## **Как получить ID товара?**
 
-[video:https://drive.google.com/file/d/180IXKky4Tt1XybpquNZSjmdM8HFFQ_D2/view?usp=sharing:]
+[video:https://drive.google.com/file/d/180IXKky4Tt1XybpquNZSjmdM8HFFQ_D2/view?usp=sharing]
