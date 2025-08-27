@@ -51,10 +51,12 @@ title: Ссылка на приложение
 
     ![](./ssylka-na-prilozhenie-8.jpeg){width=733px height=167px}
 
-    
-
 11. **Получаем ссылку, которая будет запускать приложение внутри telegram за пределами нашего бота**
 
     ![](./ssylka-na-prilozhenie-11.jpeg){width=725px height=156px}
 
 
+
+### Ссылка на приложение в приложение Botfather
+
+[video:https://drive.google.com/file/d/1sgoc7-hyw17UwUr5hsP46A22pp9JNQSA/view?usp=sharing]
