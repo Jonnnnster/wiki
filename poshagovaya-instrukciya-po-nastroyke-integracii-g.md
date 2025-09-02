@@ -27,7 +27,7 @@ title: "Пошаговая инструкция по настройке инте
 
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g.jpeg){width=1495px height=722px}
 
-   -  **Обновите страницу** --> скопируйте появившийся ключ.
+   -  **Обновите страницу** -> скопируйте появившийся ключ.
 
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-2.jpeg){width=1497px height=685px}
 
@@ -47,7 +47,7 @@ title: "Пошаговая инструкция по настройке инте
 
    -  Перейдите в админку бота, подключенного к @NotibotruBot:
 
-      **Магазин --> Интеграции --> GetCourse**.
+      **Магазин -> Интеграции -> GetCourse**.
 
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-14.jpeg){width=479px height=596px}
 
@@ -60,7 +60,7 @@ title: "Пошаговая инструкция по настройке инте
 
 2. **Создание товара для GetCourse**
 
-   -  **Магазин --> Товары --> +Добавить товар**.
+   -  **Магазин -> Товары -> +Добавить товар**.
 
    -  В разделе **«Для GetCourse»** укажите:
 
@@ -76,11 +76,11 @@ title: "Пошаговая инструкция по настройке инте
 
 1. **Создание поля** `zakaz_id`
 
-   -  Раздел **Участники --> Пользователи --> Дополнительные поля**.
+   -  Раздел **Продажи -> Список заказов -> Дополнительные поля**.
 
-      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-4.jpeg){width=1593px height=750px}
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-17.jpeg){width=857px height=433px}
 
-   -  **Добавить поле --> Тип «Строка»**.
+   -  **Добавить поле -> Тип «Строка»**.
 
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-5.jpeg){width=1406px height=689px}
 
@@ -88,9 +88,14 @@ title: "Пошаговая инструкция по настройке инте
 
       -  Название: `zakaz_id` (обязательно!).
 
-      -  Техническое имя: `zakaz_id`.
-
    -  Сохраните.
+
+      :::lab 
+
+      *Чтобы использовать переменные по заказу, добавьте к ним приставку object\
+      Так для URL мы будем использовать переменную \{object.zakaz_id}*
+
+      :::
 
 ---
 
@@ -98,13 +103,25 @@ title: "Пошаговая инструкция по настройке инте
 
 1. **Создание процесса для оплаченных заказов**
 
-   -  **Задачи --> Процессы --> Создать процесс**.
+   -  **Задачи -> Процессы -> Создать процесс**.
 
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-6.jpeg){width=1488px height=734px}
 
-      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-7.jpeg){width=1315px height=888px}
+      Настраиваем "Правила вхождения объекта" как указано на скриншоте
 
-      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-8.jpeg){width=1597px height=609px}
+   -  ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-7.jpeg){width=1315px height=888px}
+
+      Схема процесса:
+
+      [image:./poshagovaya-instrukciya-po-nastroyke-integracii-g-4.jpeg:::0,0,100,100:100::861px:461px]
+
+      Блок Условие "Завершен?"
+
+   -  ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-8.jpeg){width=1597px height=609px}
+
+      Блок Вызвать url "завершен" по зеленому выходу (Да) блока Условие
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-18.jpeg){width=862px height=244px}
 
    -  Выберите триггер: **«Заказ завершен - оплачен»**.
 
@@ -138,7 +155,7 @@ title: "Пошаговая инструкция по настройке инте
 
       *Пример:*
 
-      [`https://api.notibot.ru/getcourse/3SUU2ds3LtXXyMEscn4RMt?key=0333ecef-1793-41d2-8c7a-2733821b3d34&status=payed&order_id={object.zakaz_id}`](https://api.notibot.ru/getcourse/3SUU2ds3LtXXyMEscn4RMt?key=0333ecef-1793-41d2-8c7a-2733821b3d34&status=payed&order_id={object.zakaz_id})
+      [`https://api.notibot.ru/getcourse/3SUU2ds3LtXXyMEscn4RMt?key=0333ecef-1793-41d2-8c7a-2733821b3d34&status=payed&order_id={object.zakaz_id}`](https://api.notibot.ru/getcourse/3SUU2ds3LtXXyMEscn4RMt?key=0333ecef-1793-41d2-8c7a-2733821b3d34&status=payed&order_id=%7Bobject.zakaz_id%7D)
 
    -  Для **отмененных** заказов:
 
@@ -150,7 +167,19 @@ title: "Пошаговая инструкция по настройке инте
 
 ---
 
-#### **5\. Проверка работы**
+#### **5\.** Переходим в бот Telegram, подключенный к Notibot
+
+1. Заходим в Админка - Магазин - Товары
+
+2. Выбираем в списке товар с оплатой в GetCourse
+
+3. Нажимаем "Сообщение после оплаты"
+
+4. Отправляем в бот текст о том, что оплата успешно завершена и доступ отправлен на почту.
+
+---
+
+#### **6\. Проверка работы**
 
 1. **Тестовый заказ**
 
@@ -170,6 +199,6 @@ title: "Пошаговая инструкция по настройке инте
 
       -  Убедитесь, что **ключ GetCourse** в Notibot совпадает с сгенерированным.
 
----
+
 
 **Готово!** Интеграция настроена. Данные о заказах теперь автоматически передаются в Notibot. 🚀
