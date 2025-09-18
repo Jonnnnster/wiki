@@ -11,6 +11,12 @@ title: Ссылка на приложение
 
 Чтобы ваше приложение могло запускаться как приложение за пределами вашего бота (в том числе в закрепленном сообщении канала/чата) необходимо создать app через [@botfather](https://t.me/botfather)
 
+[video:https://drive.google.com/file/d/1sgoc7-hyw17UwUr5hsP46A22pp9JNQSA/view?usp=sharing]
+
+
+
+Или сделайте это все через команды в [@botfather](https://t.me/botfather)
+
 1. **В строке поиска по чатам наберите @botfather или перейдите по этой ссылке** [**https://t.me/botfather**](https://t.me/botfather) **(будьте внимательны у бота должна быть голубая галочка) и пишем команду /newapp**
 
    ![](./ssylka-na-prilozhenie-2.jpeg){width=738px height=268px}
@@ -57,6 +63,4 @@ title: Ссылка на приложение
 
 
 
-### Ссылка на приложение в приложение Botfather
-
-[video:https://drive.google.com/file/d/1sgoc7-hyw17UwUr5hsP46A22pp9JNQSA/view?usp=sharing]
+### 
