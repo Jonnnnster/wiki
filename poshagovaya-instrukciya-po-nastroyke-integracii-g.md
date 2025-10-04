@@ -113,7 +113,7 @@ title: "Пошаговая инструкция по настройке инте
 
       Схема процесса:
 
-      [image:./poshagovaya-instrukciya-po-nastroyke-integracii-g-4.jpeg:::0,0,100,100:100::861px:461px]
+      [image:./poshagovaya-instrukciya-po-nastroyke-integracii-g-4.jpeg:::0,0,100,100:100::861px:461px:center]
 
       Блок Условие "Завершен?"
 
@@ -124,6 +124,8 @@ title: "Пошаговая инструкция по настройке инте
       ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-18.jpeg){width=862px height=244px}
 
    -  Выберите триггер: **«Заказ завершен - оплачен»**.
+
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-19.jpeg){width=863px height=641px}
 
    -  Добавьте действие: **«Вызвать URL»**.
 
