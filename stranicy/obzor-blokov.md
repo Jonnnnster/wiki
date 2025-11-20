@@ -9,6 +9,8 @@ title: Блоки страницы
 
 ### **2\. Как добавить картинку**
 
+
+
 [video:https://drive.google.com/file/d/1WlWyiunvU0gOD1rTxVeMpu--T9CooS8o/view?usp=sharing]
 
 ### **3\. Как добавить галерею картинок**
