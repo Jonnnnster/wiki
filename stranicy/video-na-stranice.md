@@ -3,7 +3,7 @@ order: 4.5
 title: Видео на странице
 ---
 
-Видео можно вставить из: Дзен, ВК, Youtube, Rutube, Платформа, Yandex Cloud Video, так же поддерживаются VK клипы и Rutube shorts
+Видео можно вставить из:  ВК, Youtube, Yandex Cloud Video, Kinescope так же поддерживаются VK клипы 
 
 :::info 
 
