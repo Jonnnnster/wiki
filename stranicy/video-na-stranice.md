@@ -15,15 +15,11 @@ title: Видео на странице
 
    🔗 Примеры нужных ссылок:
 
-   Платформа : <https://plvideo.ru/watch?v=1W2jRitOGvQh>
-
-   Дзен: <https://dzen.ru/video/watch/66e84d8fe6a2f56de2b51bb2>
-
-   Rutube: (без слеша(/) в конце)
-
    Вк : <https://vk.com/video365464197_456239724>
 
-   Rutube shorts: без ?r=wd
+   Kinescope: [https://kinescope.io/f53etgfPwh52GDFwVX78Ag](https://kinescope.io/f53eqvbPwh52GRFwVX87Ag)
+
+   Cloud video: [https://runtime.video.cloud.yandex.net/player/video/lbnhmjahc9vznsmisjtr?autoplay=0&mute=0](https://runtime.video.cloud.yandex.net/player/video/vplvmjahc3vzsmnisjtr?autoplay=0&mute=0)
 
 2. Вставляем блок «Параграф»
 
@@ -34,8 +30,6 @@ title: Видео на странице
 3. Вставляем нашу ссылку на видео. Видео должно встроится на страницу
 
    ![](./video-na-stranice-4.jpg){width=462px height=329px}
-
-   
 
    :::tip 
 
