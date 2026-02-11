@@ -23,9 +23,9 @@ title: "Пошаговая инструкция по настройке инте
 
       *Пример:* [`https://mycompany.getcourse.ru/saas/account/api`](https://mycompany.getcourse.ru/saas/account/api)
 
-   -  Нажмите **«Сгенерировать секретный ключ»**.
+   -  Нажмите **«Сгенерировать секретный ключ»**. 
 
-      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g.jpeg){width=1495px height=722px}
+      ![](./poshagovaya-instrukciya-po-nastroyke-integracii-g-3.jpg){width=1086px height=583px}
 
    -  **Обновите страницу** -> скопируйте появившийся ключ.
 
