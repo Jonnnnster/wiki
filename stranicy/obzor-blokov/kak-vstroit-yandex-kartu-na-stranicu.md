@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 3.4
 title: YandexMap на странице
 ---
 

@@ -3,7 +3,7 @@ order: 5
 title: Кнопка
 ---
 
-[video:https://drive.google.com/file/d/1OsLXLeaEr-KQBy0ga0IFDJ5ae5_TJyFf/view?usp=sharing:]
+[video:https://drive.google.com/file/d/1OsLXLeaEr-KQBy0ga0IFDJ5ae5_TJyFf/view?usp=sharing]
 
 
 
@@ -23,7 +23,7 @@ title: Кнопка
 
 :::
 
-Так же вы можете добавить [кнопку про](./../../stranicy/knopka-pro-na-stranice) через текстовый блок [инструкция](./../../stranicy/knopka-pro-na-stranice) 
+Так же вы можете добавить [кнопку про](./../../stranicy/obzor-blokov/knopka-pro-na-stranice) через текстовый блок [инструкция](./../../stranicy/obzor-blokov/knopka-pro-na-stranice)
 
 #### Примеры
 
@@ -31,7 +31,7 @@ title: Кнопка
 
 
 
-[image:./knopka-2.jpeg:::0,0,100,100:61::472px:190px]
+[image:./knopka-2.jpeg:::0,0,100,100:61::472px:190px:center]
 
 
 
