@@ -3,7 +3,7 @@ order: 4.5
 title: Видео на странице
 ---
 
-Видео можно вставить из:  ВК, Youtube, Yandex Cloud Video, Kinescope так же поддерживаются VK клипы 
+Видео можно вставить из:  ВК, Youtube, Yandex Cloud Video, Kinescope так же поддерживаются VK клипы
 
 :::info 
 
@@ -16,6 +16,12 @@ title: Видео на странице
    🔗 Примеры нужных ссылок:
 
    Вк : <https://vk.com/video365464197_456239724>
+
+   :::tip 
+
+   Если при копирование ссылки с вк, она имеет другой вид, то вы просто начало ссылки  изменяете на vk.com, например: ссылка имеет вид <https://vkvideo.ru/video-181504149_456239080?t=4m37s>, то вам надо изменить ее на <https://vk.com/video-181504149_456239080>
+
+   :::
 
    Kinescope: [https://kinescope.io/f53etgfPwh52GDFwVX78Ag](https://kinescope.io/f53eqvbPwh52GRFwVX87Ag)
 
