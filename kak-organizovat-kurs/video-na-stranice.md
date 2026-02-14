@@ -17,6 +17,12 @@ title: Видео на странице
 
    Вк : <https://vk.com/video365464197_456239724>
 
+   :::tip 
+
+   Если при копирование ссылки с вк, она имеет другой вид, то вы просто начало ссылки  изменяете на vk.com, например: ссылка имеет вид <https://vkvideo.ru/video-181504149_456239080?t=4m37s>, то вам надо изменить ее на <https://vk.com/video-181504149_456239080>
+
+   :::
+
    Kinescope: <https://kinescope.io/f53etgfPwh52GDFwVX78Ag>
 
    Cloud video: <https://runtime.video.cloud.yandex.net/player/video/lbnhmjahc9vznsmisjtr?autoplay=0&mute=0>
