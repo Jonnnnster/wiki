@@ -1,6 +1,6 @@
 ---
 order: 15
-title: "Как\_ получить ссылку на статью в приложении визитке?"
+title: "Как\_ получить ссылку на статью в боте приложения"
 ---
 
 #### **1\. Включение Inline-режима через @BotFather**
@@ -17,7 +17,7 @@ title: "Как\_ получить ссылку на статью в прилож
 
    ![](./kak-poluchit-ssylku-na-statyu-v-prilozhenii-vizi.jpeg){width=830px height=262px}
 
-4. Перейдите в **Bot Settings** --> **Inline Mode**.
+4. Перейдите в **Bot Settings** -> **Inline Mode**.
 
    ![](./kak-poluchit-ssylku-na-statyu-v-prilozhenii-vizi-2.jpeg){width=815px height=445px}
 
